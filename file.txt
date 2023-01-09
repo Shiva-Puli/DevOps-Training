@@ -1,0 +1,2 @@
+As a Developer, i want to devloper and build the code
+As a Devops Engineer, I want to automate the release process.
