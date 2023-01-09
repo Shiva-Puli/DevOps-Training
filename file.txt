@@ -1,2 +1,3 @@
+As a Business Analyst, i will be acting as a liason between the Project team and the business stakeholders
 As a Developer, i want to devloper and build the code
-As a Devops Engineer, I want to automate the release process.
+As a Devops Engineer, I want to automate the release process
